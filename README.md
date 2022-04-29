@@ -1,7 +1,7 @@
-Add index.html 
-Add index.js 
-Add style.css 
-Add recipes folder with lasagne.html 
+Add index.html <br>
+Add index.js <br>
+Add style.css <br>
+Add recipes folder with lasagne.html <br><br>
 
-Add link to index.html 
-Add content to lasagne.html 
+Add link to index.html <br>
+Add content to lasagne.html <br>
